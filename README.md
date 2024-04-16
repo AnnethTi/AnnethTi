@@ -5,21 +5,23 @@
 <a href="https://www.linkedin.com/in/anneth-tinajero/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anneth_tinajero"/></a>
 
 <a href = "mailto:annethtinajero@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@anneth_tinajero"  /></a>
-  </p>
-<br>
+</p>
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+
 
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
+<br><br>
 🎓 INGENIERA EN SOFTWARE
 
 💻 Apasionada Desarrolladora FullStack con una sólida formación en el desarrollo de aplicaciones web.
 
 📫 Contacto: **annethtinajero@gmail.com**
+<br><br><br>
 <!--Intro end-->
   </p>
 <br>
