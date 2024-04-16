@@ -21,7 +21,7 @@
 💻 Apasionada Desarrolladora FullStack con una sólida formación en el desarrollo de aplicaciones web.
 
 📫 Contacto: **annethtinajero@gmail.com**
-<br><br><br>
+<br><br><br><br><br>
 <!--Intro end-->
   </p>
 <br>
