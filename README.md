@@ -16,12 +16,14 @@
 
 <p align="left">
 <br><br>
-🎓 INGENIERA EN SOFTWARE
 
-💻 Apasionada Desarrolladora FullStack con una sólida formación en el desarrollo de aplicaciones web.
+- 🎓 INGENIERA EN SOFTWARE
+- 💻 Apasionada Desarrolladora FullStack con una sólida formación en el desarrollo de aplicaciones web.
+- 🤓 Siempre aprendiendo nuevas cosas
+- 🤔 Estoy abierta a nuevas oportunidades de trabajo
 
-📫 Contacto: **annethtinajero@gmail.com**
-<br><br><br><br><br>
+- 📫 Contacto: **annethtinajero@gmail.com**
+
 <!--Intro end-->
   </p>
 <br>
