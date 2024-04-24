@@ -23,6 +23,7 @@
 - 🤔 Estoy abierta a nuevas oportunidades de trabajo
 
 - 📫 Contacto: **annethtinajero@gmail.com**
+- 💻 Web Personal: **https://annethti.github.io/personal-web/**
 
 <!--Intro end-->
   </p>
